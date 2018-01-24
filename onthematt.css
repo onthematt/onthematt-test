@@ -1,0 +1,28 @@
+body {
+
+background-image: url("../Images/background.jpg");
+font-family: bulky pixels;
+
+}
+
+.opening {
+
+width: 400px;
+background: rgba(225,225,225,0.9);
+text-align: center;
+padding: 10px;
+margin: 50px auto;
+border-radius: 10px;
+
+}
+
+.content {
+
+width: 600px;
+background: rgba(225,225,225,0.9);
+margin: 100px auto;
+padding: 10px;
+text-align: center;
+border-radius: 10px;
+
+}
