@@ -1,14 +1,13 @@
 body {
 
 background-image: url("../Images/background.jpg");
-<<<<<<< HEAD
-font-family: bulky pixels, "Tahoma", serif;
+font-family: bulky pixels, "Helvetica", "Arial", serif;
 
 }
 
 .opening {
 
-width: 60%;
+width: 50%;
 background: rgba(225,225,225,0.9);
 text-align: center;
 padding: 10px;
@@ -19,7 +18,7 @@ border-radius: 10px;
 
 .content {
 
-width: 600px;
+width: 60%;
 background: rgba(225,225,225,0.9);
 margin: 100px auto;
 padding: 10px;
