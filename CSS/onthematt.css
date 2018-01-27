@@ -1,10 +1,10 @@
 @font-face {
 
 font-family: bulkypixels;
-src: url('BulkyPixels.ttf') format('ttf'),
-	url('BulkyPixels.woff2') format('woff2'),
-    url('BulkyPixels.woff') format('woff'),
-    url('BulkyPixels.svg#BulkyPixels') format('svg');
+src: url('CSS/Fonts/BulkyPixels.ttf') format('ttf'),
+	url('CSS/Fonts/BulkyPixels.woff2') format('woff2'),
+    url('CSS/Fonts/BulkyPixels.woff') format('woff'),
+    url('CSS/Fonts/BulkyPixels.svg#BulkyPixels') format('svg');
 }
 
 body {
