@@ -10,7 +10,7 @@ src: url('BulkyPixels.ttf') format('ttf'),
 body {
 
 background-image: url("../Images/background.jpg");
-font-family: bulky pixels, bulkypixels, "Helvetica", "Arial", serif;
+font-family: bulkypixels, "Helvetica", "Arial", serif;
 
 }
 
