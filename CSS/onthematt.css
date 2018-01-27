@@ -1,8 +1,10 @@
 @font-face {
 
 font-family: bulkypixels;
-src: url(../bulkypixels.TTF);
-
+src: url('BulkyPixels.ttf') format('ttf'),
+	url('BulkyPixels.woff2') format('woff2'),
+    url('BulkyPixels.woff') format('woff'),
+    url('BulkyPixels.svg#BulkyPixels') format('svg');
 }
 
 body {
