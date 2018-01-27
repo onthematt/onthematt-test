@@ -1,3 +1,10 @@
+@font-face {
+
+font-family: bulkypixels;
+src: url(bulkypixels.TTF);
+
+}
+
 body {
 
 background-image: url("../Images/background.jpg");
