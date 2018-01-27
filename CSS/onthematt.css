@@ -8,7 +8,7 @@ src: url(bulkypixels.TTF);
 body {
 
 background-image: url("../Images/background.jpg");
-font-family: bulky pixels, "Helvetica", "Arial", serif;
+font-family: bulky pixels, bulkypixels, "Helvetica", "Arial", serif;
 
 }
 
