@@ -1,6 +1,6 @@
 @font-face {
 
-font-family: bulkypixels;
+font-family: "bulkypixels";
 src: url('Fonts/BulkyPixels.ttf') format('ttf'),
 	url('Fonts/BulkyPixels.woff2') format('woff2'),
     url('Fonts/BulkyPixels.woff') format('woff'),
@@ -10,7 +10,7 @@ src: url('Fonts/BulkyPixels.ttf') format('ttf'),
 body {
 
 background-image: url("../Images/background.jpg");
-font-family: bulkypixels, "Helvetica", "Arial", serif;
+font-family: "bulkypixels", "Helvetica", "Arial", serif;
 
 }
 
