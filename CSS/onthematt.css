@@ -37,8 +37,9 @@ border-radius: 10px;
 }
 
 
-.portfoliodiv {
+.container {
 
-display: inline;
+display: inline-block;
+
 
 }
