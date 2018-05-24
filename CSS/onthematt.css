@@ -14,9 +14,22 @@ font-family: "bulkypixels", "Helvetica", "Arial", serif;
 
 }
 
-.opening {
+.openinga {
 
 width: 50%;
+text-align: center;
+padding: 10px;
+margin: 50px auto;
+border-radius: 10px;
+
+}
+
+}
+
+.openingb {
+
+width: 50%;
+background: rgba(225,225,225,0.9);
 text-align: center;
 padding: 10px;
 margin: 50px auto;
