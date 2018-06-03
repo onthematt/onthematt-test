@@ -43,6 +43,12 @@ border-radius: 10px;
 
 }
 
+.blogpost {
+
+width: 80%;
+background: rgba(225,225,225,0.9);
+padding: 10px;
+border-radius: 5px;
 
 .container {
 
