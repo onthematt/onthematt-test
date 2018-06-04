@@ -34,7 +34,7 @@ border-radius: 10px;
 
 .content {
 
-width: 60%;
+max-width: 500px;
 background: rgba(225,225,225,0.9);
 margin: 100px auto;
 padding: 10px;
