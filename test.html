@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>test</title>
+	
+	<!-- css link -->
+	<link rel="stylesheet" type="text/css" href="CSS/onthematt.css">
+	<!-- Favicon code -->
+	<link rel="icon" type="image/png" href="Images/mb.png">
+	<!-- Javascript link -->
+	<script src="jquery-3.3.1.min.js"></script>
+    <script type="text/javascript">
+    	
+    	function divrandom() {
+    	
+    		var divtags=$("div");
+    		if(divtags.length){
+    			var display=Math.floor(Math.random() * divtags.length);
+    			for(var i=0;i<divtags.length;i++)	{
+    			if(i!==display)	{
+    				$(divtags[i]).hide();
+    			}
+    			}
+    		}
+    		)
+    		</script>
+</head>
+
+<body onload="divrandom()">
+<div>One</div>
+<div>Two</div>
+<div>Three</div>
+<div>Four</div>
+<div>Five</div>	
+
+</body>
+
+</html>
