@@ -10,30 +10,32 @@
 	<!-- Favicon code -->
 	<link rel="icon" type="image/png" href="Images/mb.png">
 	<!-- Javascript link -->
-	<script src="jquery-3.3.1.min.js"></script>
-    <script type="text/javascript">
+    <style>
+    
+    .blog 	{
+    
+    background: rgba(225,225,255,0.9);
+    padding: 10px;
+    margin: 5px auto;
+    width: 300px;
+    text-align: center;
+}       
+    </style>
+    
+    <script>
     	
-    	function divrandom() {
-    	
-    		var divtags=$("div");
-    		if(divtags.length){
-    			var display=Math.floor(Math.random() * divtags.length);
-    			for(var i=0;i<divtags.length;i++)	{
-    			if(i!==display)	{
-    				$(divtags[i]).hide();
-    			}
-    			}
-    		}
-    		)
-    		</script>
+
+	</script>
+    		
 </head>
 
-<body onload="divrandom()">
-<div>One</div>
-<div>Two</div>
-<div>Three</div>
-<div>Four</div>
-<div>Five</div>	
+<body>
+
+<div class="blog">One</div>
+<div class="blog">Two</div>
+<div class="blog">Three</div>
+<div class="blog">Four</div>
+<div class="blog">Five</div>	
 
 </body>
 
