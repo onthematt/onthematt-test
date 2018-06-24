@@ -10,18 +10,24 @@
 	<!-- Favicon code -->
 	<link rel="icon" type="image/png" href="Images/mb.png">
 	<!-- Javascript link -->
-    <script src="onthematt.js"></script>
+    <script src="onthematt.js">Javascript</script>
    
     <style>
     
     .blog 	{
-    
     background: rgba(225,225,255,0.9);
-    padding: 10px;
-    margin: 5px auto;
-    width: 300px;
+    padding: 50px;
+    margin: 10px auto;
+    width: 400px;
     text-align: center;
 }       
+
+	.item { 
+	background: rgba(225,225,255,0.9);
+    padding: 30px;
+    margin: 5px auto;
+    width: 100px;	
+}
     </style>
 
     		
@@ -29,13 +35,21 @@
 
 <body>
 
-<div class="blog">One</div>
-<div class="blog">Two</div>
-<div class="blog">Three</div>
-<div class="blog">Four</div>
-<div class="blog">Five</div>	
+<div class="blog">
+<a href="index.html"><img src="Images/onthematt.jpg" width="100px;"></a>
+<br><br>
+<p id="blogpost">Notes to myself...</p>
+<br>
+<button onclick="onTheMatt()">Click here</button>
+</div>
 
-<p id="blogger"></p>
+<br>
+
+<div class="item">One</div>
+<div class="item">Two</div>
+<div class="item">Three</div>
+<div class="item">Four</div>
+<div class="item">Five</div>
 
 </body>
 
