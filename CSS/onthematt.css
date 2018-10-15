@@ -48,12 +48,12 @@ border-radius: 10px;
 
 .aboutme {
 
-margin: 100px auto;
-padding: 20px;
+margin: 50px auto;
+padding: 30px;
 font-family: "Futura-Medium";
-max-width: 800px;
+max-width: 750px;
 font-size: 3vw;
-background: rgba(225,225,225,0.9);
+background: rgba(225,225,225,0.8);
 
 }
 
