@@ -14,6 +14,20 @@ font-family: "bulkypixels", "Helvetica", "Arial", serif;
 
 }
 
+a:link {
+
+color: blue;
+text-decoration: none;
+
+}
+
+a:visited {
+
+color: blue;
+text-decoration: none;
+
+}
+
 .opening {
 
 width: 444px;
@@ -32,29 +46,25 @@ border-radius: 10px;
     width: 100%;
 }
 
-.content {
+.aboutme {
 
-max-width: 500px;
-background: rgba(225,225,225,0.9);
 margin: 100px auto;
-padding: 10px;
-text-align: center;
-border-radius: 10px;
-
-}
-
-.contact {
-
-max-width: 400px;
-min-width: 240px;
+padding: 20px;
+font-family: "Futura-Medium";
+max-width: 800px;
+font-size: 3vw;
 background: rgba(225,225,225,0.9);
-margin: 30px auto;
-padding: 30px;
-text-align: center;
-border-radius: 10px;
-font-family: "arial";
 
 }
+
+.headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    width: 250px;
+    
+    }
 
 .blogpost {
 
@@ -66,12 +76,5 @@ border-radius: 5px;
 text-align: ;
 word-spacing: 7px;
 font-family: "Futura-Medium";
-
-.aboutme {
-
-margin: 5px auto;
-font-family: "Futura-Medium";
-max-width: 300px;
-font-size: 2vw;
 
 }
