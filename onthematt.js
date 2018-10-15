@@ -11,7 +11,7 @@ onthematt[7] = "<h1>100%.</h1>You say you'll give 100%?<br><br>110 is impossible
 onthematt[8] = "<h1>Generosity.</h1>Lend somebody you don't know very well a few quid and watch them mess you around.<br><br>#mrbanker";
 onthematt[9] = "<h1>You don't know.</h1>You don't know how much you don't know.. because you don't know!<br><br>#ignoranceisbliss";
 onthematt[10] = "<h1>Bathroom struggles.</h1>Ten urinals, five sinks, one hand dryer.<br><br>What the fuck.<br><br>#weeandwait";
-onthematt[11] = "<h1>You're welcome.</h1>Thank you for the like on my picture the other day.<br><br>I'd never thought about it warranting a thanks before but perhaps it does?<br><br>There's a wonderful irony in my father - a man who has sent postcards all his life - so strongly resisting the connectedness of social media.<br><br>You're welcome for the like. It's good to be connected.<br><br>#keepintouch";
+onthematt[11] = "<h1>You're welcome.</h1>I'd never thought about a social media 'like' warranting a thanks before but perhaps it does?<br><br>There's a wonderful irony in my father - a man who has sent postcards all his life - so strongly resisting the connectedness of social media.<br><br>You're welcome for the like. It's good to be connected.<br><br>#keepintouch";
 
 
 

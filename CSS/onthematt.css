@@ -56,7 +56,6 @@ font-family: "arial";
 
 }
 
-
 .blogpost {
 
 margin: 30px auto;
@@ -68,8 +67,11 @@ text-align: ;
 word-spacing: 7px;
 font-family: "Futura-Medium";
 
-.blogtext {
+.aboutme {
 
-font-family: serif;
+margin: 5px auto;
+font-family: "Futura-Medium";
+max-width: 300px;
+font-size: 2vw;
 
 }
